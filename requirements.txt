@@ -1,0 +1,6 @@
+pymupdf
+pypdf
+pillow
+python-docx
+openpyxl
+tqdm
